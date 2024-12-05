@@ -39,7 +39,7 @@ UI Recorder is easy to use, even zero cost.
 
 <!-- GITCONTRIBUTOR_START -->
 
-## Contributors
+# Contributors
 
 |[<img src="https://avatars.githubusercontent.com/u/62272417?v=4" width="100px;"/><br/><sub><b>itestauipi</b></sub>](https://github.com/itestauipi)<br/>|[<img src="https://avatars.githubusercontent.com/u/18617837?v=4" width="100px;"/><br/><sub><b>Stngle</b></sub>](https://github.com/Stngle)<br/>|[<img src="https://avatars.githubusercontent.com/u/970390?v=4" width="100px;"/><br/><sub><b>yaniswang</b></sub>](https://github.com/yaniswang)<br/>|[<img src="https://avatars.githubusercontent.com/u/1011681?v=4" width="100px;"/><br/><sub><b>xudafeng</b></sub>](https://github.com/xudafeng)<br/>|[<img src="https://avatars.githubusercontent.com/u/7446962?v=4" width="100px;"/><br/><sub><b>undead25</b></sub>](https://github.com/undead25)<br/>|[<img src="https://avatars.githubusercontent.com/u/5198256?v=4" width="100px;"/><br/><sub><b>stevobm</b></sub>](https://github.com/stevobm)<br/>
 | :---: | :---: | :---: | :---: | :---: | :---: |
